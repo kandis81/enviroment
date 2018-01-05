@@ -1,0 +1,4 @@
+.gitignore     text eol='lf'
+.gitattributes text eol='lf
+
+main_ux.env    text eol='lf'
