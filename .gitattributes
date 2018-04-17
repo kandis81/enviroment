@@ -2,3 +2,6 @@
 .gitattributes text eol=lf
 
 main.env       text eol=lf
+
+.bashrc        text eol=lf
+.bash_profile  text eol=lf
